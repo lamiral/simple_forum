@@ -1,0 +1,42 @@
+body,html
+{
+	background-color: #DADFEA;
+	font-size: 18px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.div_comments
+{	
+	background-color:#D0D4DD;
+	width: 100%;
+	border:1px solid black;
+}
+
+.div_comments_author
+{	
+	display: inline-block;
+	border-right: 1px solid black;
+	width: 10%;
+	height: 100%;
+	padding: 2%;
+}
+
+.div_comments_text
+{	
+	text-align: center;
+	display: inline-block;
+	width: 80%;
+	height: 100%;
+}
+
+#footer
+{
+	float:left;
+}
+
+.article
+{
+	background-color: #D0D4DD;
+	border: 1px solid black;
+}
